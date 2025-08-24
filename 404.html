@@ -2,7 +2,16 @@
 <html>
 
 <head>
-    <meta http-equiv="refresh" content="0; url=/" />
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+        const segmentCount = 1;
+        const location = window.location;
+        const newPath = location.pathname.split('/').slice(0, 1 + segmentCount).join('/') + '/?p=' + location.pathname.slice(1).split('/').slice(segmentCount).join('/') + '&q=' + location.search.slice(1) + location.hash;
+        location.replace(
+            location.protocol + '//' + location.hostname + (location.port ? ':' + location.port : '') + newPath
+        );
+    </script>
 </head>
 
 <body>
