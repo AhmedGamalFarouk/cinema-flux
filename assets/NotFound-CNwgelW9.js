@@ -1,0 +1,1 @@
+import{j as o}from"./index-Cbc3LIYS.js";function n(){return o.jsxs("div",{className:"not-found-page",children:[o.jsx("h1",{children:"404 - Page Not Found"}),o.jsx("p",{children:"Sorry, the page you are looking for does not exist."})]})}export{n as default};
