@@ -2,6 +2,10 @@
 
 Cinema Flux is a futuristic movie discovery web app built with React, Redux Toolkit, and Vite. Browse trending movies, view detailed information, and curate your own list of favorites—all with a sleek, modern UI.
 
+## Deplyed Version
+
+https://ahmedgamalfarouk.github.io/cinema-flux/
+
 ## 🚀 Features
 
 - Browse popular movies from The Movie Database (TMDb)
