@@ -17,9 +17,9 @@ https://ahmedgamalfarouk.github.io/cinema-flux/
 
 ## 🖥️ Screenshots
 
-![alt text](<Screenshot 2025-05-30 202002.png>)
-![alt text](image.png)
-![alt text](image-1.png)
+![Cinema Flux landing screen](<Screenshot 2025-05-30 202002.png>)
+![Popular movies grid](image.png)
+![Movie details page](image-1.png)
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +34,7 @@ https://ahmedgamalfarouk.github.io/cinema-flux/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/cinema-flux.git
+   git clone https://github.com/AhmedGamalFarouk/cinema-flux.git
    cd cinema-flux
    ```
 2. **Install dependencies:**
